@@ -16,3 +16,5 @@ async function updateCounter() {
     counter.innerHTML = `Views: ${data}`;
 }
 updateCounter();
+
+
