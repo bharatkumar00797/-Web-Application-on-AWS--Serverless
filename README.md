@@ -1,3 +1,5 @@
+> Built while following an AWS serverless tutorial, as hands-on practice with Lambda, DynamoDB and S3.
+
 ## Project Name: Web-Application-on-AWS--Serverless
 # Serverless Web Application on AWS
 
